@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea064fa-c80d-412a-9f4b-c6b69861512b" name="Changes" comment="SpringBoot와 JPA활용1" />
+    <list default="true" id="cea064fa-c80d-412a-9f4b-c6b69861512b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,6 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2B0yvIZi4Yn47xUJb5HEhjnq0Fv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -227,7 +228,7 @@
       <workItem from="1681089080027" duration="5930000" />
       <workItem from="1681173451881" duration="1734000" />
       <workItem from="1681260886218" duration="597000" />
-      <workItem from="1686211044658" duration="667000" />
+      <workItem from="1686212009847" duration="4000" />
     </task>
     <servers />
   </component>
@@ -244,10 +245,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="SpringBoot와 JPA활용1" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot와 JPA활용1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
